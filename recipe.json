@@ -1,0 +1,9 @@
+{
+	"Author": "madrix01",
+	"Barename": "react-js",
+	"Version": "0.0.1",
+	"Variants": ["js"],
+	"Placeholders": {
+		"AppName": ["react-js-app", "Name of the app."]
+	}
+}
